@@ -95,6 +95,15 @@
                  <a href="https://github.com/Monu-Ruhela/DAA-Program/blob/master/GRAPHS/imp%20bubble.jpg" >clickhere</a>
                 </td>
             </tr>
+             <tr>
+                <td><b>10. Insertion sort</b></td>
+                <td>O()</td>
+                <td>O()</td>
+                <td>O()</td>
+                <td>
+                 <a href="https://github.com/Monu-Ruhela/DAA-Program/blob/master/GRAPHS/imp%20bubble.jpg" >clickhere</a>
+                </td>
+            </tr>
         </table>
     </body>
 </html>

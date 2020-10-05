@@ -101,7 +101,7 @@
                 <td>O()</td>
                 <td>O()</td>
                 <td>
-                 <a href="https://github.com/Monu-Ruhela/DAA-Program/blob/master/GRAPHS/imp%20bubble.jpg" >clickhere</a>
+                 <a href="https://github.com/Monu-Ruhela/DAA-Program/blob/master/GRAPHS/Insertion%20sort.jpg" >clickhere</a>
                 </td>
             </tr>
         </table>

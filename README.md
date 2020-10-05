@@ -29,7 +29,7 @@
                 <td>O()</td>
                 <td>O()</td>
                 <td>
-                 <a href="book.xml" >clickhere</a>
+                 <a href="https://github.com/Monu-Ruhela/DAA-Program/blob/master/GRAPHS/Merge%20sort.jpg" >clickhere</a>
                 </td>
             </tr>
             <tr>
@@ -38,7 +38,7 @@
                 <td>O()</td>
                 <td>O()</td>
                 <td>
-                 <a href="book.xml" >clickhere</a>
+                 <a href="https://github.com/Monu-Ruhela/DAA-Program/blob/master/GRAPHS/Quick%20sort.jpg" >clickhere</a>
                 </td>
             </tr>
             <tr>
@@ -47,7 +47,7 @@
                 <td>O()</td>
                 <td>O()</td>
                 <td>
-                 <a href="book.xml" >clickhere</a>
+                 <a href="https://github.com/Monu-Ruhela/DAA-Program/blob/master/GRAPHS/R%20Quick%20sort.jpg" >clickhere</a>
                 </td>
             </tr>
             <tr>
@@ -56,7 +56,7 @@
                 <td>O()</td>
                 <td>O()</td>
                 <td>
-                 <a href="book.xml" >clickhere</a>
+                 <a href="https://github.com/Monu-Ruhela/DAA-Program/blob/master/GRAPHS/Selection%20sort.jpg" >clickhere</a>
                 </td>
             </tr> 
             <tr>
@@ -74,7 +74,7 @@
                 <td>O()</td>
                 <td>O()</td>
                 <td>
-                 <a href="book.xml" >clickhere</a>
+                 <a href="https://github.com/Monu-Ruhela/DAA-Program/blob/master/GRAPHS/Heap%20sort.jpg" >clickhere</a>
                 </td>
             </tr>
             <tr>
@@ -83,7 +83,7 @@
                 <td>O()</td>
                 <td>O()</td>
                 <td>
-                 <a href="book.xml" >clickhere</a>
+                 <a href="https://github.com/Monu-Ruhela/DAA-Program/blob/master/GRAPHS/bubble%20sort.jpg" >clickhere</a>
                 </td>
             </tr>
             <tr>
@@ -92,7 +92,7 @@
                 <td>O()</td>
                 <td>O()</td>
                 <td>
-                 <a href="book.xml" >clickhere</a>
+                 <a href="https://github.com/Monu-Ruhela/DAA-Program/blob/master/GRAPHS/imp%20bubble.jpg" >clickhere</a>
                 </td>
             </tr>
         </table>

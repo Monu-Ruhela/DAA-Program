@@ -20,7 +20,7 @@
                <td>O()</td>
                <td>O()</td>
                <td>
-                <a href="https://github.com/Monu-Ruhela/DAA-Program/blob/master/LinearSearch.CPP" >clickhere</a>
+                <a href="https://github.com/Monu-Ruhela/DAA-Program/blob/master/GRAPHS/Linear%20search.jpg" >clickhere</a>
                </td>
             </tr>
             <tr>
